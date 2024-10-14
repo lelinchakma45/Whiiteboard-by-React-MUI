@@ -38,7 +38,7 @@ Check out the live demo [**Click here**](http://whiteboard.lelinchakma.com/)
    ```bash
    cd whiteboard2
 
-3. Install All Dependencies for React :
+3. Install all dependencies for React :
    ```bash
    npm install
 
