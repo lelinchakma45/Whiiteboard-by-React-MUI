@@ -1,7 +1,7 @@
 # Whiiteboard by React MUI
 
 A collaborative whiteboard application built with React and Material-UI (MUI) that allows users to draw, write, and share their ideas in real-time. This project aims to provide a simple and interactive platform for brainstorming and creative expression.
-
+Demo
 
 ## Features
 
@@ -20,8 +20,8 @@ A collaborative whiteboard application built with React and Material-UI (MUI) th
 ## Packages Used
 
 - **Konva Framework**: Konva is a JavaScript library for drawing complex canvas graphics using React. It provides declarative and reactive bindings to the Konva Framework.
-```bash
-   npm install react-konva konva --save
+   ```bash
+      npm install react-konva konva --save
 
 ## Installation
 
