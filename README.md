@@ -22,7 +22,7 @@ A collaborative whiteboard application built with React and Material-UI (MUI) th
    ```bash
    git clone https://github.com/yourusername/whiteboard-by-react-mui.git
 
-2. Open this project:
+2. Open this project in terminal:
    ```bash
    cd whiteboard2
 
