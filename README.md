@@ -1,7 +1,10 @@
 # Whiiteboard by React MUI
 
 A collaborative whiteboard application built with React and Material-UI (MUI) that allows users to draw, write, and share their ideas in real-time. This project aims to provide a simple and interactive platform for brainstorming and creative expression.
-Demo
+
+## Demo
+
+Check out the live demo [here](#)
 
 ## Features
 
