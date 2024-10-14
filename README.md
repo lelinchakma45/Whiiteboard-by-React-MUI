@@ -21,7 +21,7 @@ Demo
 
 - **Konva Framework**: Konva is a JavaScript library for drawing complex canvas graphics using React. It provides declarative and reactive bindings to the Konva Framework.
    ```bash
-      npm install react-konva konva --save
+   npm install react-konva konva --save
 
 ## Installation
 
