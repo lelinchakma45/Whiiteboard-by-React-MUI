@@ -43,3 +43,9 @@ Check out the live demo [here](#)
 4. Run Project:
    ```bash
    npm run dev
+
+### Customization Notes
+- **Demo Link**: Replace `#` with the actual link to your demo.
+- **GitHub Username**: Replace `lelinchakma45` with your actual GitHub username.
+- **Email Address**: Update `lelinchakma1234@gmail.com` with your actual email address.
+- **Additional Sections**: Add any other sections you think are necessary based on your project specifics.
