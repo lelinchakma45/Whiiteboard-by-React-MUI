@@ -21,3 +21,15 @@ A collaborative whiteboard application built with React and Material-UI (MUI) th
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/whiteboard-by-react-mui.git
+
+2. Open this project:
+   ```bash
+   cd whiteboard2
+
+3. React All Dependencies Install:
+   ```bash
+   npm install
+
+4. Run Project:
+   ```bash
+   npm run dev
