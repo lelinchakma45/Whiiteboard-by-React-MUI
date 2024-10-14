@@ -4,7 +4,7 @@ A collaborative whiteboard application built with React and Material-UI (MUI) th
 
 ## Demo
 
-Check out the live demo [here](#)
+Check out the live demo [here](http://whiteboard.lelinchakma.com/)
 
 ## Features
 
