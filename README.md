@@ -46,6 +46,6 @@ Check out the live demo [here](http://whiteboard.lelinchakma.com/)
    ```bash
    npm run dev
 
-### Customization Notes
+### Additional Notes
 - **GitHub**: `https://github.com/lelinchakma45` follow my github account.
 - **Email Address**: For inquiries, collaborations, or to connect, feel free to reach out at `lelinchakma1234@gmail.com` I’d love to hear from you!.
